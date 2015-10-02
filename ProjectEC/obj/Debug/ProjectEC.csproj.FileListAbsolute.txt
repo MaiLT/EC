@@ -1,0 +1,66 @@
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\roslyn\csc.exe
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\roslyn\vbc.exe
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\roslyn\VBCSCompiler.exe
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\ProjectEC.dll.config
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\ProjectEC.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\ProjectEC.pdb
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\System.Web.Helpers.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\System.Web.Mvc.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\System.Web.Razor.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\System.Web.Webpages.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\System.Web.Webpages.Razor.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\System.Web.Razor.xml
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\System.Web.Webpages.xml
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\System.Web.Webpages.Razor.xml
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\System.Web.Helpers.xml
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\bin\System.Web.Mvc.xml
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\obj\Debug\ProjectEC.csprojResolveAssemblyReference.cache
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\obj\Debug\ProjectEC.dll
+C:\Users\leenoson\Desktop\ProjectEC\ProjectEC\obj\Debug\ProjectEC.pdb
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\roslyn\csc.exe
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\roslyn\vbc.exe
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\roslyn\VBCSCompiler.exe
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\ProjectEC.dll.config
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\ProjectEC.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\ProjectEC.pdb
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\System.Web.Helpers.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\System.Web.Mvc.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\System.Web.Razor.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\System.Web.Webpages.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\System.Web.Webpages.Razor.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\System.Web.Razor.xml
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\System.Web.Webpages.xml
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\System.Web.Webpages.Razor.xml
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\System.Web.Helpers.xml
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\bin\System.Web.Mvc.xml
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\obj\Debug\ProjectEC.csprojResolveAssemblyReference.cache
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\obj\Debug\ProjectEC.dll
+C:\Users\TieuTieu\Downloads\ProjectEC (1)\ProjectEC\ProjectEC\obj\Debug\ProjectEC.pdb
